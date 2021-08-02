@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903511562109",
+    "firebase_url": "https://sewa-ca0c2.firebaseio.com",
+    "project_id": "sewa-ca0c2",
+    "storage_bucket": "sewa-ca0c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903511562109:android:22b4f59cf6179d02bf1e14",
+        "android_client_info": {
+          "package_name": "com.example.sewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903511562109-2d8nlg9nb7pv8eu6t2vk5uv9dka2mu34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOEnXdxnqnWaZEFJfGwkrJ1yBVOVm7nkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903511562109-2d8nlg9nb7pv8eu6t2vk5uv9dka2mu34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
